@@ -23,5 +23,4 @@ Tech Stack
 
 ---
 Live Demo 
-You can try this project directly in your browser: https://finance-dashboard-lxhwhaw5i8npib49ppblzr.streamlit.app/
-( Please open in chrome )
+You can try this project directly in your browser: https://finance-dashboard-lxhwhaw5i8npib49ppblzr.streamlit.app/ ( Please open in chrome )
