@@ -55,4 +55,4 @@ plt.title("Annualized Volatility")
 plt.savefig("charts/volatility.png")
 plt.close()
 
-print("✅ Analysis complete! Charts saved in 'charts' folder.")
+print("Analysis complete! Charts saved in 'charts' folder.")
