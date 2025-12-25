@@ -99,4 +99,4 @@ plt.tight_layout()
 plt.savefig("charts/portfolio_simulation.png")
 plt.close()
 
-print("✅ Saved: charts/portfolio_simulation.png")
+print("Saved: charts/portfolio_simulation.png")
