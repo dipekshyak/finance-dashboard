@@ -99,7 +99,7 @@ def main():
     out = f"charts/{ticker}_ma_strategy.png"
     plt.savefig(out)
     plt.close()
-    print(f"✅ Saved chart: {out}")
+    print(f"Saved chart: {out}")
 
 if __name__ == "__main__":
     main()
